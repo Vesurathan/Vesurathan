@@ -1,49 +1,49 @@
-Hi there 👋 I'm Vishwa!
-✨ Welcome to my GitHub profile! ✨
+Hi there 👋 I'm Vishwa  
 
-I'm a passionate software developer currently working at Apptimus Tech. Here, I'm involved in building scalable web applications using modern frameworks and technologies. I actively contribute to open-source projects, constantly developing innovative AI and machine learning solutions to solve real-world problems.
+🎓 MSc Artificial Intelligence Student (UK)  
+🤖 AI Engineer | Data Engineer | Future Tech Lead  
 
-🌱 What I'm Learning
-At the moment, I'm diving deep into JavaScript, PHP, and DevOps. I aim to enhance my skills in JavaScript frameworks like React, Angular, and Vue.js, while also exploring cloud computing platforms such as AWS and Azure for better deployment and scaling of applications. Additionally, I'm gaining a deeper understanding of CI/CD pipelines and containerization using Docker and Kubernetes.
+Welcome to my PlayGround
 
-👯 Collaboration Interests
-I love collaborating on open-source projects that positively impact the community. Participating in hackathons is another passion of mine, where I enjoy solving challenging problems and innovating new solutions. Engaging in tech meetups and conferences to share knowledge and learn from others is something I look forward to as well.
+I'm currently pursuing my Master's in Artificial Intelligence in the UK, focusing on building real-world AI systems and data-driven applications. 
+My goal is to become a highly skilled AI & Data Engineer, capable of designing intelligent, scalable, and production-ready systems.
 
-🤔 Looking for Help
-I'm seeking mentorship on advanced software architecture and system design. If you're involved in high-impact projects, I'd love to contribute and make a significant difference.
+💡 What I Do  
+- Build AI/ML models for real-world problems (Computer Vision, NLP)  
+- Design data pipelines and structured datasets for AI systems  
+- Develop backend systems to deploy and scale AI applications  
+- Work on research-driven projects (healthcare AI, security AI, automation)  
 
-💬 Feel Free to Ask Me About
-Web Development: HTML, CSS, JavaScript, and modern frameworks.
-Backend Development: Node.js, Express, and databases (SQL & NoSQL).
-AI/ML: Building and deploying machine learning models.
-Best Coding Practices: Clean code, design patterns, and testing.
-📫 How to Reach Me
-Email: vesurathan00@gmail.com
-LinkedIn: Vesurathan
-Twitter: @vesurathan
-😄 Pronouns
-He/Him
-⚡ Fun Fact
-I'm a huge anime lover! 🎌 In my free time, I enjoy playing strategy and RPG games. I'm also a trivia enthusiast and love participating in quizzes and learning new fun facts.
+🧠 Current Focus  
+I'm deeply focused on:  
+- Agentic AI systems (autonomous decision-making models)  
+- Computer Vision (medical imaging, object detection, classification)  
+- Natural Language Processing (LLMs, text classification)  
+- Data Engineering (ETL pipelines, feature engineering, data modeling)  
+- MLOps & Deployment (Docker, APIs, scalable AI systems)  
 
-🛠️ Languages and Tools I Use
-Languages:    
- Java
- PHP
- Javascript
- C++
- C#
- 
-Frameworks:
-Laravel
-NextJS
-Node.JS
- 
-Tools:  
-Git
-BitBucket
-Jira
-VS Code
- 
- 
-  
+⚙️ Tech Stack  
+Languages: Python, SQL, JavaScript, PHP, TypeScript
+AI/ML: PyTorch, Transformers, Scikit-learn, OpenCV , ML , MATLAB
+Data: Pandas, NumPy, Feature Engineering, Data Modeling  
+Backend: Laravel, Node.js, API Development, NextJS,   
+Tools: Git, Docker, VS Code, Jupyter Notebook ,AWS Web Services, Digital Ocean, MATLAB, Google colab, 
+
+🔥 What I'm Building  
+- AI-powered healthcare systems (tumor classification, medical imaging)  
+- Intelligent security systems (intrusion detection, object recognition)  
+- Agentic AI systems that can reason, plan, and act  
+- End-to-end AI pipelines (data → model → deployment)  
+
+🎯 Career Goal  
+To become a Senior AI & Data Engineer / Tech Lead, building impactful AI systems and leading high-performance engineering teams.
+
+🤝 Collaboration  
+I'm open to collaborating on:  
+- AI/ML projects  
+- Data engineering pipelines  
+- Open-source AI tools and research-based systems  
+
+📫 Reach Me  
+- Email: vesurathan00@gmail.com  
+- LinkedIn: Vesurathan  
